@@ -78,7 +78,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://johnkioko.github.io/crypto-coin/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 <div align="center">
 
-  <img src="src/images/logo_crypto.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
   <h3><b>CRYPTO</b></h3>
@@ -37,9 +37,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 CRYPTOX<a name="about-project"></a>
+# 📖 CRYPTO<a name="about-project"></a>
 
-**CRYPTOS** is a React-Redux application built using the CoinApp API.
+**CRYPTO** is a React-Redux application Using CoinApp API.
 
 ## 🛠 Built With <a name="built-with"></a>
 

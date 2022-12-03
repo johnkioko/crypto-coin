@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 <div align="center">
 
@@ -77,8 +73,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://johnkioko.github.io/crypto-coin/)
+
+## 🚀 Video Demo <a name="live-demo"></a>
+
+- [LVideo Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

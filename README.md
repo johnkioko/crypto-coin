@@ -73,13 +73,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://johnkioko.github.io/crypto-coin/)
 
 ## 🚀 Video Demo <a name="live-demo"></a>
 
-- [LVideo Demo Link]()
+- [LVideo Demo Link](https://www.loom.com/share/8d40ec3780fe4f54a680814194c02c7f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
